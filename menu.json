@@ -1,0 +1,735 @@
+﻿{
+    "actualizado":  "2026-09-03 10:20:27",
+    "menu":  {
+                 "Arroz Frito":  [
+                                     {
+                                         "codigo":  "23m",
+                                         "articulo":  "1/2 arroz asia.",
+                                         "precio":  35000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "28m",
+                                         "articulo":  "1/2 arroz camaron.",
+                                         "precio":  41000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "24m",
+                                         "articulo":  "1/2 Arroz especial.",
+                                         "precio":  29000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "29m",
+                                         "articulo":  "1/2 arroz pollo y camaron.",
+                                         "precio":  40000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "26m",
+                                         "articulo":  "1/2 Arroz pollo.",
+                                         "precio":  29000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "25m",
+                                         "articulo":  "1/2 Arroz res.",
+                                         "precio":  29000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "27m",
+                                         "articulo":  "1/2 arroz vegetal.",
+                                         "precio":  29000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "22m",
+                                         "articulo":  "1/2 combo.",
+                                         "precio":  51000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "23",
+                                         "articulo":  "Arroz Asia.",
+                                         "precio":  42000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "28",
+                                         "articulo":  "Arroz camaron.",
+                                         "precio":  51000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "24",
+                                         "articulo":  "Arroz especial.",
+                                         "precio":  38000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "29",
+                                         "articulo":  "Arroz pollo y camaron.",
+                                         "precio":  48000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "26",
+                                         "articulo":  "Arroz pollo.",
+                                         "precio":  38000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "25",
+                                         "articulo":  "Arroz res.",
+                                         "precio":  38000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "27",
+                                         "articulo":  "Arroz vegetal.",
+                                         "precio":  38000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "22",
+                                         "articulo":  "Combo.",
+                                         "precio":  66000,
+                                         "iva":  8
+                                     }
+                                 ],
+                 "bebidas":  [
+                                 {
+                                     "codigo":  "10",
+                                     "articulo":  "Agua",
+                                     "precio":  4000,
+                                     "iva":  8
+                                 },
+                                 {
+                                     "codigo":  "10c",
+                                     "articulo":  "Cerveza",
+                                     "precio":  4500,
+                                     "iva":  8
+                                 },
+                                 {
+                                     "codigo":  "11",
+                                     "articulo":  "Coca cola 400ml",
+                                     "precio":  5000,
+                                     "iva":  8
+                                 },
+                                 {
+                                     "codigo":  "13",
+                                     "articulo":  "Gaseosa 1.5L",
+                                     "precio":  9000,
+                                     "iva":  8
+                                 },
+                                 {
+                                     "codigo":  "7",
+                                     "articulo":  "Gaseosa 1.5L",
+                                     "precio":  9000,
+                                     "iva":  8
+                                 },
+                                 {
+                                     "codigo":  "12",
+                                     "articulo":  "Gaseosa 2.5L",
+                                     "precio":  10500,
+                                     "iva":  8
+                                 },
+                                 {
+                                     "codigo":  "09",
+                                     "articulo":  "Gaseosa personal",
+                                     "precio":  4200,
+                                     "iva":  8
+                                 },
+                                 {
+                                     "codigo":  "16",
+                                     "articulo":  "Jarra de limonada",
+                                     "precio":  18000,
+                                     "iva":  8
+                                 },
+                                 {
+                                     "codigo":  "17",
+                                     "articulo":  "Jarra de naranjada",
+                                     "precio":  20000,
+                                     "iva":  8
+                                 },
+                                 {
+                                     "codigo":  "14",
+                                     "articulo":  "Limonada",
+                                     "precio":  4200,
+                                     "iva":  8
+                                 },
+                                 {
+                                     "codigo":  "15",
+                                     "articulo":  "Naranjanda",
+                                     "precio":  4500,
+                                     "iva":  8
+                                 }
+                             ],
+                 "chaw mien":  [
+                                   {
+                                       "codigo":  "37m",
+                                       "articulo":  "1/2 Chaw mien asia.",
+                                       "precio":  43000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "42m",
+                                       "articulo":  "1/2 Chaw mien camaron.",
+                                       "precio":  43000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "38m",
+                                       "articulo":  "1/2 Chaw mien especial.",
+                                       "precio":  35000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "43m",
+                                       "articulo":  "1/2 Chaw mien Pollo y camaron.",
+                                       "precio":  40000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "40m",
+                                       "articulo":  "1/2 Chaw mien pollo.",
+                                       "precio":  35000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "39m",
+                                       "articulo":  "1/2 Chaw mien res.",
+                                       "precio":  35000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "41m",
+                                       "articulo":  "1/2 Chaw mien vegetal.",
+                                       "precio":  35000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "37",
+                                       "articulo":  "Chaw mien asia.",
+                                       "precio":  51000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "42",
+                                       "articulo":  "Chaw mien camaron.",
+                                       "precio":  51000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "38",
+                                       "articulo":  "Chaw mien especial.",
+                                       "precio":  41000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "43",
+                                       "articulo":  "Chaw mien Pollo y camaron.",
+                                       "precio":  51000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "40",
+                                       "articulo":  "Chaw mien pollo.",
+                                       "precio":  41000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "39",
+                                       "articulo":  "Chaw mien res.",
+                                       "precio":  41000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "41",
+                                       "articulo":  "Chaw mien vegetal.",
+                                       "precio":  41000,
+                                       "iva":  8
+                                   }
+                               ],
+                 "chop suey":  [
+                                   {
+                                       "codigo":  "30m",
+                                       "articulo":  "1/2 Chop suey Asia.",
+                                       "precio":  43000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "35m",
+                                       "articulo":  "1/2 Chop Suey camarones.",
+                                       "precio":  43000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "31m",
+                                       "articulo":  "1/2 Chop Suey especial.",
+                                       "precio":  35000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "36m",
+                                       "articulo":  "1/2 Chop Suey pollo y camaron.",
+                                       "precio":  40000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "32m",
+                                       "articulo":  "1/2 Chop Suey res.",
+                                       "precio":  35000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "34m",
+                                       "articulo":  "1/2 Chop Suey vegetal.",
+                                       "precio":  35000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "30",
+                                       "articulo":  "chop suey Asia.",
+                                       "precio":  51000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "35",
+                                       "articulo":  "Chop Suey Camaron.",
+                                       "precio":  51000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "31",
+                                       "articulo":  "Chop Suey Especial.",
+                                       "precio":  41000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "36",
+                                       "articulo":  "Chop Suey pollo y camaron.",
+                                       "precio":  51000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "33",
+                                       "articulo":  "Chop Suey pollo.",
+                                       "precio":  41000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "32",
+                                       "articulo":  "Chop Suey res.",
+                                       "precio":  41000,
+                                       "iva":  8
+                                   },
+                                   {
+                                       "codigo":  "34",
+                                       "articulo":  "Chop Suey vegetal.",
+                                       "precio":  41000,
+                                       "iva":  8
+                                   }
+                               ],
+                 "entradas":  [
+                                  {
+                                      "codigo":  "02m",
+                                      "articulo":  "1/2 Papa",
+                                      "precio":  8000,
+                                      "iva":  8
+                                  },
+                                  {
+                                      "codigo":  "02a",
+                                      "articulo":  "Alitas",
+                                      "precio":  4000,
+                                      "iva":  8
+                                  },
+                                  {
+                                      "codigo":  "01",
+                                      "articulo":  "LUMPIA",
+                                      "precio":  4000,
+                                      "iva":  8
+                                  },
+                                  {
+                                      "codigo":  "M101",
+                                      "articulo":  "LUMPIA BOCADILLO",
+                                      "precio":  4500,
+                                      "iva":  8
+                                  },
+                                  {
+                                      "codigo":  "02",
+                                      "articulo":  "Papas",
+                                      "precio":  13000,
+                                      "iva":  8
+                                  }
+                              ],
+                 "Lomien":  [
+                                {
+                                    "codigo":  "50m",
+                                    "articulo":  "1/2 lomien asia.",
+                                    "precio":  44000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "55m",
+                                    "articulo":  "1/2 Lomien camaron.",
+                                    "precio":  44000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "51m",
+                                    "articulo":  "1/2 lomien especial.",
+                                    "precio":  36000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "56m",
+                                    "articulo":  "1/2 Lomien Pollo y Camaron.",
+                                    "precio":  41000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "53m",
+                                    "articulo":  "1/2 lomien pollo.",
+                                    "precio":  36000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "52m",
+                                    "articulo":  "1/2 lomien res.",
+                                    "precio":  36000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "54m",
+                                    "articulo":  "1/2 lomien vegetal.",
+                                    "precio":  36000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "50",
+                                    "articulo":  "lomien asia.",
+                                    "precio":  52000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "55",
+                                    "articulo":  "Lomien camaron.",
+                                    "precio":  52000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "51",
+                                    "articulo":  "lomien especial.",
+                                    "precio":  42000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "56",
+                                    "articulo":  "Lomien pollo y camaron.",
+                                    "precio":  52000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "53",
+                                    "articulo":  "lomien pollo.",
+                                    "precio":  42000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "52",
+                                    "articulo":  "Lomien res.",
+                                    "precio":  42000,
+                                    "iva":  8
+                                },
+                                {
+                                    "codigo":  "54",
+                                    "articulo":  "Lomien vegetal.",
+                                    "precio":  42000,
+                                    "iva":  8
+                                }
+                            ],
+                 "mariscos":  [
+                                  {
+                                      "codigo":  "62",
+                                      "articulo":  "Cazuela de camarones.",
+                                      "precio":  31000,
+                                      "iva":  8
+                                  },
+                                  {
+                                      "codigo":  "61",
+                                      "articulo":  "Cazuela pescado y camarones.",
+                                      "precio":  31000,
+                                      "iva":  8
+                                  }
+                              ],
+                 "platos combinados":  [
+                                           {
+                                               "codigo":  "59",
+                                               "articulo":  "Combinado Grande.",
+                                               "precio":  45500,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "60",
+                                               "articulo":  "Triple Grande.",
+                                               "precio":  47500,
+                                               "iva":  8
+                                           }
+                                       ],
+                 "platos especiales":  [
+                                           {
+                                               "codigo":  "67m",
+                                               "articulo":  "1/2 pollo ostras.",
+                                               "precio":  36000,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "68m",
+                                               "articulo":  "1/2 res ostras.",
+                                               "precio":  35000,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "66m",
+                                               "articulo":  "1/2 res pimenton.",
+                                               "precio":  37000,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "67",
+                                               "articulo":  "pollo ostras.",
+                                               "precio":  46000,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "68",
+                                               "articulo":  "res ostras.",
+                                               "precio":  45000,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "66",
+                                               "articulo":  "RES PIMENTON.",
+                                               "precio":  47000,
+                                               "iva":  8
+                                           }
+                                       ],
+                 "platos personales":  [
+                                           {
+                                               "codigo":  "19",
+                                               "articulo":  "Combinado personal",
+                                               "precio":  19500,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "M82",
+                                               "articulo":  "PERSONAL BROASTER",
+                                               "precio":  25000,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "20",
+                                               "articulo":  "Plato especial",
+                                               "precio":  23000,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "18",
+                                               "articulo":  "Plato sencillo",
+                                               "precio":  19500,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "P",
+                                               "articulo":  "PROMO ABRIL",
+                                               "precio":  16000,
+                                               "iva":  8
+                                           },
+                                           {
+                                               "codigo":  "21",
+                                               "articulo":  "triple PQ.",
+                                               "precio":  23500,
+                                               "iva":  8
+                                           }
+                                       ],
+                 "salsa agridulce":  [
+                                         {
+                                             "codigo":  "58m",
+                                             "articulo":  "1/2 cerdo agridulce.",
+                                             "precio":  35000,
+                                             "iva":  8
+                                         },
+                                         {
+                                             "codigo":  "57m",
+                                             "articulo":  "1/2 Pollo agridulce.",
+                                             "precio":  35000,
+                                             "iva":  8
+                                         },
+                                         {
+                                             "codigo":  "58",
+                                             "articulo":  "Cerdo agridulce.",
+                                             "precio":  45000,
+                                             "iva":  8
+                                         },
+                                         {
+                                             "codigo":  "57",
+                                             "articulo":  "Pollo agridulce.",
+                                             "precio":  45000,
+                                             "iva":  8
+                                         }
+                                     ],
+                 "Salsa curry":  [
+                                     {
+                                         "codigo":  "65m",
+                                         "articulo":  "1/2 pescado curry.",
+                                         "precio":  33000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "63m",
+                                         "articulo":  "1/2 Pollo curry.",
+                                         "precio":  33000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "64m",
+                                         "articulo":  "1/2 res curry.",
+                                         "precio":  33000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "65",
+                                         "articulo":  "pescado curry.",
+                                         "precio":  45000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "63",
+                                         "articulo":  "pollo curry.",
+                                         "precio":  43000,
+                                         "iva":  8
+                                     },
+                                     {
+                                         "codigo":  "64",
+                                         "articulo":  "res curry.",
+                                         "precio":  43000,
+                                         "iva":  8
+                                     }
+                                 ],
+                 "Sopas y cremas":  [
+                                        {
+                                            "codigo":  "06",
+                                            "articulo":  "Crema camaron",
+                                            "precio":  24000,
+                                            "iva":  8
+                                        },
+                                        {
+                                            "codigo":  "08",
+                                            "articulo":  "Crema cebolla",
+                                            "precio":  18000,
+                                            "iva":  8
+                                        },
+                                        {
+                                            "codigo":  "05",
+                                            "articulo":  "Crema de pollo",
+                                            "precio":  19000,
+                                            "iva":  8
+                                        },
+                                        {
+                                            "codigo":  "07",
+                                            "articulo":  "Crema pescado",
+                                            "precio":  19000,
+                                            "iva":  8
+                                        },
+                                        {
+                                            "codigo":  "04",
+                                            "articulo":  "Sopa de vegetales",
+                                            "precio":  18000,
+                                            "iva":  8
+                                        },
+                                        {
+                                            "codigo":  "03",
+                                            "articulo":  "Sopa wonton",
+                                            "precio":  15000,
+                                            "iva":  8
+                                        }
+                                    ],
+                 "spaguettis":  [
+                                    {
+                                        "codigo":  "49m",
+                                        "articulo":  "1/2 Espaguetis pollo y camaron.",
+                                        "precio":  40000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "44m",
+                                        "articulo":  "1/2 spaguetis asia.",
+                                        "precio":  41000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "48m",
+                                        "articulo":  "1/2 spaguetis camaron.",
+                                        "precio":  43000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "45m",
+                                        "articulo":  "1/2 spaguetis especiales.",
+                                        "precio":  35000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "47m",
+                                        "articulo":  "1/2 spaguetis pollo.",
+                                        "precio":  35000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "46m",
+                                        "articulo":  "1/2 spaguetis res.",
+                                        "precio":  35000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "48",
+                                        "articulo":  "espaguetis camaron.",
+                                        "precio":  51000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "45",
+                                        "articulo":  "espaguetis especial.",
+                                        "precio":  41000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "49",
+                                        "articulo":  "Espaguetis pollo y camaron.",
+                                        "precio":  51000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "46",
+                                        "articulo":  "espaguetis res.",
+                                        "precio":  41000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "44",
+                                        "articulo":  "spaguetis asia.",
+                                        "precio":  51000,
+                                        "iva":  8
+                                    },
+                                    {
+                                        "codigo":  "47",
+                                        "articulo":  "spaguetis pollo.",
+                                        "precio":  41000,
+                                        "iva":  8
+                                    }
+                                ]
+             }
+}
